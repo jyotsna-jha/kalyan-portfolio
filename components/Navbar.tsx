@@ -14,7 +14,7 @@ const Navbar = () => {
             className="w-full h-full object-contain rounded-full"
           /> */}
         </div>
-        <h1 className="text-white text-[25px] font-semibold">
+        <h1 className="text-white text-[23px] font-semibold">
           Kalyan{" "}
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-red-500">
             {" "}
